@@ -58,7 +58,7 @@ Planned features for future releases. Releases are mapped below. We use [semanti
 - [ ] Language object model
 
 
-## About [Wikitongues](www.wikitongues.org)
+## About [Wikitongues](http://www.wikitongues.org)
 Wikitongues is a movement for language rights.
 Together with speakers and signers of every langauge in the world, we're building the most inclusive cultural archive ever made, raising awareness about linguistic diversity and rallying to defend it.
 
